@@ -1,0 +1,28 @@
+h1{
+
+    display: flex;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+}
+img{
+
+height: 400px;
+}
+.centr{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: black;
+}
+button{
+    width: 150px;
+    height: 50px;
+    border-radius: 25PX;
+    background-color: black;
+}
+a{
+    color:white;    
+}   
+.hh1{
+    color: black;
+}
